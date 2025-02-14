@@ -1,0 +1,10 @@
+curl -i -X POST 'https://graph.facebook.com/v12.0/28526662100283056/email
+  [
+    {
+      "method":"GET",
+      
+    },  
+    
+  ]
+  &include_headers=false             // Included to remove header information
+  &access_token=EAAXh5ZCZAvQIsBOZCO9hnKl90r3pTHph4YAMQmzrNMwpVJQ3b79dpqPWFHXDBYMArzts0KJyMIdGCBVCr2JQl5SmnnXTDRfn2QXrbWVN1hIgvE6aRkbUOdlZCg9900HswgXjxquAGhph4XVPzcRtzeV130hXSNOABvulZCLtGEOfMN465sBH3rDWtRFPEdVZCyZB0OZCilE6hG4xpawIsDlI88VJlHsnXrT5mZAyN2QZBGjsJ77KZAdikZBT'
